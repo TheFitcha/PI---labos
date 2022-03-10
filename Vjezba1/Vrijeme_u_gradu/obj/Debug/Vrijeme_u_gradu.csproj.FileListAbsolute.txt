@@ -1,0 +1,8 @@
+C:\Users\Filip\OneDrive - Fakultet Organizacije i Informatike Varaždin\6. semestar\PI\Labosi - vjezbe\1\Vjezba1\Vrijeme_u_gradu\bin\Debug\Vrijeme_u_gradu.exe.config
+C:\Users\Filip\OneDrive - Fakultet Organizacije i Informatike Varaždin\6. semestar\PI\Labosi - vjezbe\1\Vjezba1\Vrijeme_u_gradu\bin\Debug\Vrijeme_u_gradu.exe
+C:\Users\Filip\OneDrive - Fakultet Organizacije i Informatike Varaždin\6. semestar\PI\Labosi - vjezbe\1\Vjezba1\Vrijeme_u_gradu\bin\Debug\Vrijeme_u_gradu.pdb
+C:\Users\Filip\OneDrive - Fakultet Organizacije i Informatike Varaždin\6. semestar\PI\Labosi - vjezbe\1\Vjezba1\Vrijeme_u_gradu\obj\Debug\Vrijeme_u_gradu.csproj.AssemblyReference.cache
+C:\Users\Filip\OneDrive - Fakultet Organizacije i Informatike Varaždin\6. semestar\PI\Labosi - vjezbe\1\Vjezba1\Vrijeme_u_gradu\obj\Debug\Vrijeme_u_gradu.csproj.SuggestedBindingRedirects.cache
+C:\Users\Filip\OneDrive - Fakultet Organizacije i Informatike Varaždin\6. semestar\PI\Labosi - vjezbe\1\Vjezba1\Vrijeme_u_gradu\obj\Debug\Vrijeme_u_gradu.csproj.CoreCompileInputs.cache
+C:\Users\Filip\OneDrive - Fakultet Organizacije i Informatike Varaždin\6. semestar\PI\Labosi - vjezbe\1\Vjezba1\Vrijeme_u_gradu\obj\Debug\Vrijeme_u_gradu.exe
+C:\Users\Filip\OneDrive - Fakultet Organizacije i Informatike Varaždin\6. semestar\PI\Labosi - vjezbe\1\Vjezba1\Vrijeme_u_gradu\obj\Debug\Vrijeme_u_gradu.pdb

@@ -1,0 +1,8 @@
+C:\Users\Filip\OneDrive - Fakultet Organizacije i Informatike Varaždin\6. semestar\PI\Labosi - vjezbe\1\Vjezba1\Temperature_zraka\bin\Debug\Temperature_zraka.exe.config
+C:\Users\Filip\OneDrive - Fakultet Organizacije i Informatike Varaždin\6. semestar\PI\Labosi - vjezbe\1\Vjezba1\Temperature_zraka\bin\Debug\Temperature_zraka.exe
+C:\Users\Filip\OneDrive - Fakultet Organizacije i Informatike Varaždin\6. semestar\PI\Labosi - vjezbe\1\Vjezba1\Temperature_zraka\bin\Debug\Temperature_zraka.pdb
+C:\Users\Filip\OneDrive - Fakultet Organizacije i Informatike Varaždin\6. semestar\PI\Labosi - vjezbe\1\Vjezba1\Temperature_zraka\obj\Debug\Temperature_zraka.csproj.AssemblyReference.cache
+C:\Users\Filip\OneDrive - Fakultet Organizacije i Informatike Varaždin\6. semestar\PI\Labosi - vjezbe\1\Vjezba1\Temperature_zraka\obj\Debug\Temperature_zraka.csproj.SuggestedBindingRedirects.cache
+C:\Users\Filip\OneDrive - Fakultet Organizacije i Informatike Varaždin\6. semestar\PI\Labosi - vjezbe\1\Vjezba1\Temperature_zraka\obj\Debug\Temperature_zraka.csproj.CoreCompileInputs.cache
+C:\Users\Filip\OneDrive - Fakultet Organizacije i Informatike Varaždin\6. semestar\PI\Labosi - vjezbe\1\Vjezba1\Temperature_zraka\obj\Debug\Temperature_zraka.exe
+C:\Users\Filip\OneDrive - Fakultet Organizacije i Informatike Varaždin\6. semestar\PI\Labosi - vjezbe\1\Vjezba1\Temperature_zraka\obj\Debug\Temperature_zraka.pdb

@@ -1,0 +1,8 @@
+C:\Users\Filip\OneDrive - Fakultet Organizacije i Informatike Varaždin\6. semestar\PI\Labosi - vjezbe\1\Vjezba1\Starost_osobe\bin\Debug\Starost_osobe.exe.config
+C:\Users\Filip\OneDrive - Fakultet Organizacije i Informatike Varaždin\6. semestar\PI\Labosi - vjezbe\1\Vjezba1\Starost_osobe\bin\Debug\Starost_osobe.exe
+C:\Users\Filip\OneDrive - Fakultet Organizacije i Informatike Varaždin\6. semestar\PI\Labosi - vjezbe\1\Vjezba1\Starost_osobe\bin\Debug\Starost_osobe.pdb
+C:\Users\Filip\OneDrive - Fakultet Organizacije i Informatike Varaždin\6. semestar\PI\Labosi - vjezbe\1\Vjezba1\Starost_osobe\obj\Debug\Starost_osobe.csproj.AssemblyReference.cache
+C:\Users\Filip\OneDrive - Fakultet Organizacije i Informatike Varaždin\6. semestar\PI\Labosi - vjezbe\1\Vjezba1\Starost_osobe\obj\Debug\Starost_osobe.csproj.SuggestedBindingRedirects.cache
+C:\Users\Filip\OneDrive - Fakultet Organizacije i Informatike Varaždin\6. semestar\PI\Labosi - vjezbe\1\Vjezba1\Starost_osobe\obj\Debug\Starost_osobe.csproj.CoreCompileInputs.cache
+C:\Users\Filip\OneDrive - Fakultet Organizacije i Informatike Varaždin\6. semestar\PI\Labosi - vjezbe\1\Vjezba1\Starost_osobe\obj\Debug\Starost_osobe.exe
+C:\Users\Filip\OneDrive - Fakultet Organizacije i Informatike Varaždin\6. semestar\PI\Labosi - vjezbe\1\Vjezba1\Starost_osobe\obj\Debug\Starost_osobe.pdb

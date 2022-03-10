@@ -1,0 +1,8 @@
+C:\Users\Filip\OneDrive - Fakultet Organizacije i Informatike Varaždin\6. semestar\PI\Labosi - vjezbe\1\Vjezba1\Novcana_naknada\bin\Debug\Novcana_naknada.exe.config
+C:\Users\Filip\OneDrive - Fakultet Organizacije i Informatike Varaždin\6. semestar\PI\Labosi - vjezbe\1\Vjezba1\Novcana_naknada\bin\Debug\Novcana_naknada.exe
+C:\Users\Filip\OneDrive - Fakultet Organizacije i Informatike Varaždin\6. semestar\PI\Labosi - vjezbe\1\Vjezba1\Novcana_naknada\bin\Debug\Novcana_naknada.pdb
+C:\Users\Filip\OneDrive - Fakultet Organizacije i Informatike Varaždin\6. semestar\PI\Labosi - vjezbe\1\Vjezba1\Novcana_naknada\obj\Debug\Novcana_naknada.csproj.AssemblyReference.cache
+C:\Users\Filip\OneDrive - Fakultet Organizacije i Informatike Varaždin\6. semestar\PI\Labosi - vjezbe\1\Vjezba1\Novcana_naknada\obj\Debug\Novcana_naknada.csproj.SuggestedBindingRedirects.cache
+C:\Users\Filip\OneDrive - Fakultet Organizacije i Informatike Varaždin\6. semestar\PI\Labosi - vjezbe\1\Vjezba1\Novcana_naknada\obj\Debug\Novcana_naknada.csproj.CoreCompileInputs.cache
+C:\Users\Filip\OneDrive - Fakultet Organizacije i Informatike Varaždin\6. semestar\PI\Labosi - vjezbe\1\Vjezba1\Novcana_naknada\obj\Debug\Novcana_naknada.exe
+C:\Users\Filip\OneDrive - Fakultet Organizacije i Informatike Varaždin\6. semestar\PI\Labosi - vjezbe\1\Vjezba1\Novcana_naknada\obj\Debug\Novcana_naknada.pdb

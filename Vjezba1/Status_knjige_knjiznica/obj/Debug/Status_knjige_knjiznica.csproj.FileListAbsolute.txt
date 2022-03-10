@@ -1,0 +1,8 @@
+C:\Users\Filip\OneDrive - Fakultet Organizacije i Informatike Varaždin\6. semestar\PI\Labosi - vjezbe\1\Vjezba1\Status_knjige_knjiznica\bin\Debug\Status_knjige_knjiznica.exe.config
+C:\Users\Filip\OneDrive - Fakultet Organizacije i Informatike Varaždin\6. semestar\PI\Labosi - vjezbe\1\Vjezba1\Status_knjige_knjiznica\bin\Debug\Status_knjige_knjiznica.exe
+C:\Users\Filip\OneDrive - Fakultet Organizacije i Informatike Varaždin\6. semestar\PI\Labosi - vjezbe\1\Vjezba1\Status_knjige_knjiznica\bin\Debug\Status_knjige_knjiznica.pdb
+C:\Users\Filip\OneDrive - Fakultet Organizacije i Informatike Varaždin\6. semestar\PI\Labosi - vjezbe\1\Vjezba1\Status_knjige_knjiznica\obj\Debug\Status_knjige_knjiznica.csproj.AssemblyReference.cache
+C:\Users\Filip\OneDrive - Fakultet Organizacije i Informatike Varaždin\6. semestar\PI\Labosi - vjezbe\1\Vjezba1\Status_knjige_knjiznica\obj\Debug\Status_knjige_knjiznica.csproj.SuggestedBindingRedirects.cache
+C:\Users\Filip\OneDrive - Fakultet Organizacije i Informatike Varaždin\6. semestar\PI\Labosi - vjezbe\1\Vjezba1\Status_knjige_knjiznica\obj\Debug\Status_knjige_knjiznica.csproj.CoreCompileInputs.cache
+C:\Users\Filip\OneDrive - Fakultet Organizacije i Informatike Varaždin\6. semestar\PI\Labosi - vjezbe\1\Vjezba1\Status_knjige_knjiznica\obj\Debug\Status_knjige_knjiznica.exe
+C:\Users\Filip\OneDrive - Fakultet Organizacije i Informatike Varaždin\6. semestar\PI\Labosi - vjezbe\1\Vjezba1\Status_knjige_knjiznica\obj\Debug\Status_knjige_knjiznica.pdb
