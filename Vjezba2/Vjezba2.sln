@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Autobusni_kolodvor", "Vjezb
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bankovne_transakcije", "Bankovne_transakcije\Bankovne_transakcije.csproj", "{5023FB0E-63F6-4511-903C-8A9F35A65BD5}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Corona_evidencija", "Corona_evidencija\Corona_evidencija.csproj", "{3388ECC4-4363-4258-9B6D-1013A498741B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{5023FB0E-63F6-4511-903C-8A9F35A65BD5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5023FB0E-63F6-4511-903C-8A9F35A65BD5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5023FB0E-63F6-4511-903C-8A9F35A65BD5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3388ECC4-4363-4258-9B6D-1013A498741B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3388ECC4-4363-4258-9B6D-1013A498741B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3388ECC4-4363-4258-9B6D-1013A498741B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3388ECC4-4363-4258-9B6D-1013A498741B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
