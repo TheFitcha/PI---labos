@@ -1,0 +1,8 @@
+C:\Users\Filip\OneDrive - Fakultet Organizacije i Informatike Varaždin\6. semestar\PI\Labosi - vjezbe\Vjezba2\Mjenjačnica\bin\Debug\Mjenjačnica.exe.config
+C:\Users\Filip\OneDrive - Fakultet Organizacije i Informatike Varaždin\6. semestar\PI\Labosi - vjezbe\Vjezba2\Mjenjačnica\bin\Debug\Mjenjačnica.exe
+C:\Users\Filip\OneDrive - Fakultet Organizacije i Informatike Varaždin\6. semestar\PI\Labosi - vjezbe\Vjezba2\Mjenjačnica\bin\Debug\Mjenjačnica.pdb
+C:\Users\Filip\OneDrive - Fakultet Organizacije i Informatike Varaždin\6. semestar\PI\Labosi - vjezbe\Vjezba2\Mjenjačnica\obj\Debug\Mjenjačnica.csproj.AssemblyReference.cache
+C:\Users\Filip\OneDrive - Fakultet Organizacije i Informatike Varaždin\6. semestar\PI\Labosi - vjezbe\Vjezba2\Mjenjačnica\obj\Debug\Mjenjačnica.csproj.SuggestedBindingRedirects.cache
+C:\Users\Filip\OneDrive - Fakultet Organizacije i Informatike Varaždin\6. semestar\PI\Labosi - vjezbe\Vjezba2\Mjenjačnica\obj\Debug\Mjenjačnica.csproj.CoreCompileInputs.cache
+C:\Users\Filip\OneDrive - Fakultet Organizacije i Informatike Varaždin\6. semestar\PI\Labosi - vjezbe\Vjezba2\Mjenjačnica\obj\Debug\Mjenjačnica.exe
+C:\Users\Filip\OneDrive - Fakultet Organizacije i Informatike Varaždin\6. semestar\PI\Labosi - vjezbe\Vjezba2\Mjenjačnica\obj\Debug\Mjenjačnica.pdb

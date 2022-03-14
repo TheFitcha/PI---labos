@@ -1,0 +1,8 @@
+C:\Users\Filip\OneDrive - Fakultet Organizacije i Informatike Varaždin\6. semestar\PI\Labosi - vjezbe\Vjezba2\Glasanje\bin\Debug\Glasanje.exe.config
+C:\Users\Filip\OneDrive - Fakultet Organizacije i Informatike Varaždin\6. semestar\PI\Labosi - vjezbe\Vjezba2\Glasanje\bin\Debug\Glasanje.exe
+C:\Users\Filip\OneDrive - Fakultet Organizacije i Informatike Varaždin\6. semestar\PI\Labosi - vjezbe\Vjezba2\Glasanje\bin\Debug\Glasanje.pdb
+C:\Users\Filip\OneDrive - Fakultet Organizacije i Informatike Varaždin\6. semestar\PI\Labosi - vjezbe\Vjezba2\Glasanje\obj\Debug\Glasanje.csproj.AssemblyReference.cache
+C:\Users\Filip\OneDrive - Fakultet Organizacije i Informatike Varaždin\6. semestar\PI\Labosi - vjezbe\Vjezba2\Glasanje\obj\Debug\Glasanje.csproj.SuggestedBindingRedirects.cache
+C:\Users\Filip\OneDrive - Fakultet Organizacije i Informatike Varaždin\6. semestar\PI\Labosi - vjezbe\Vjezba2\Glasanje\obj\Debug\Glasanje.csproj.CoreCompileInputs.cache
+C:\Users\Filip\OneDrive - Fakultet Organizacije i Informatike Varaždin\6. semestar\PI\Labosi - vjezbe\Vjezba2\Glasanje\obj\Debug\Glasanje.exe
+C:\Users\Filip\OneDrive - Fakultet Organizacije i Informatike Varaždin\6. semestar\PI\Labosi - vjezbe\Vjezba2\Glasanje\obj\Debug\Glasanje.pdb

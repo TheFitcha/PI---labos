@@ -1,0 +1,8 @@
+C:\Users\Filip\OneDrive - Fakultet Organizacije i Informatike Varaždin\6. semestar\PI\Labosi - vjezbe\Vjezba2\Kucna_knjiznica_3\bin\Debug\Kucna_knjiznica_3.exe.config
+C:\Users\Filip\OneDrive - Fakultet Organizacije i Informatike Varaždin\6. semestar\PI\Labosi - vjezbe\Vjezba2\Kucna_knjiznica_3\bin\Debug\Kucna_knjiznica_3.exe
+C:\Users\Filip\OneDrive - Fakultet Organizacije i Informatike Varaždin\6. semestar\PI\Labosi - vjezbe\Vjezba2\Kucna_knjiznica_3\bin\Debug\Kucna_knjiznica_3.pdb
+C:\Users\Filip\OneDrive - Fakultet Organizacije i Informatike Varaždin\6. semestar\PI\Labosi - vjezbe\Vjezba2\Kucna_knjiznica_3\obj\Debug\Kucna_knjiznica_3.csproj.AssemblyReference.cache
+C:\Users\Filip\OneDrive - Fakultet Organizacije i Informatike Varaždin\6. semestar\PI\Labosi - vjezbe\Vjezba2\Kucna_knjiznica_3\obj\Debug\Kucna_knjiznica_3.csproj.SuggestedBindingRedirects.cache
+C:\Users\Filip\OneDrive - Fakultet Organizacije i Informatike Varaždin\6. semestar\PI\Labosi - vjezbe\Vjezba2\Kucna_knjiznica_3\obj\Debug\Kucna_knjiznica_3.csproj.CoreCompileInputs.cache
+C:\Users\Filip\OneDrive - Fakultet Organizacije i Informatike Varaždin\6. semestar\PI\Labosi - vjezbe\Vjezba2\Kucna_knjiznica_3\obj\Debug\Kucna_knjiznica_3.exe
+C:\Users\Filip\OneDrive - Fakultet Organizacije i Informatike Varaždin\6. semestar\PI\Labosi - vjezbe\Vjezba2\Kucna_knjiznica_3\obj\Debug\Kucna_knjiznica_3.pdb

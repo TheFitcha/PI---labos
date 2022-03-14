@@ -1,0 +1,8 @@
+C:\Users\Filip\OneDrive - Fakultet Organizacije i Informatike Varaždin\6. semestar\PI\Labosi - vjezbe\Vjezba2\Hotelske_sobe\bin\Debug\Hotelske_sobe.exe.config
+C:\Users\Filip\OneDrive - Fakultet Organizacije i Informatike Varaždin\6. semestar\PI\Labosi - vjezbe\Vjezba2\Hotelske_sobe\bin\Debug\Hotelske_sobe.exe
+C:\Users\Filip\OneDrive - Fakultet Organizacije i Informatike Varaždin\6. semestar\PI\Labosi - vjezbe\Vjezba2\Hotelske_sobe\bin\Debug\Hotelske_sobe.pdb
+C:\Users\Filip\OneDrive - Fakultet Organizacije i Informatike Varaždin\6. semestar\PI\Labosi - vjezbe\Vjezba2\Hotelske_sobe\obj\Debug\Hotelske_sobe.csproj.AssemblyReference.cache
+C:\Users\Filip\OneDrive - Fakultet Organizacije i Informatike Varaždin\6. semestar\PI\Labosi - vjezbe\Vjezba2\Hotelske_sobe\obj\Debug\Hotelske_sobe.csproj.SuggestedBindingRedirects.cache
+C:\Users\Filip\OneDrive - Fakultet Organizacije i Informatike Varaždin\6. semestar\PI\Labosi - vjezbe\Vjezba2\Hotelske_sobe\obj\Debug\Hotelske_sobe.csproj.CoreCompileInputs.cache
+C:\Users\Filip\OneDrive - Fakultet Organizacije i Informatike Varaždin\6. semestar\PI\Labosi - vjezbe\Vjezba2\Hotelske_sobe\obj\Debug\Hotelske_sobe.exe
+C:\Users\Filip\OneDrive - Fakultet Organizacije i Informatike Varaždin\6. semestar\PI\Labosi - vjezbe\Vjezba2\Hotelske_sobe\obj\Debug\Hotelske_sobe.pdb
