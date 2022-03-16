@@ -29,6 +29,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Potrosnja_energije", "Potro
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Predlaganje_filma", "Predlaganje_filma\Predlaganje_filma.csproj", "{2221BA87-EE34-47A0-8CC0-A95F965C5934}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Prijava_u_sustav", "Prijava_u_sustav\Prijava_u_sustav.csproj", "{D92C18FF-E4B4-4C3E-A70F-47C6CF5F1511}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -87,6 +89,10 @@ Global
 		{2221BA87-EE34-47A0-8CC0-A95F965C5934}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2221BA87-EE34-47A0-8CC0-A95F965C5934}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2221BA87-EE34-47A0-8CC0-A95F965C5934}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D92C18FF-E4B4-4C3E-A70F-47C6CF5F1511}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D92C18FF-E4B4-4C3E-A70F-47C6CF5F1511}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D92C18FF-E4B4-4C3E-A70F-47C6CF5F1511}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D92C18FF-E4B4-4C3E-A70F-47C6CF5F1511}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
