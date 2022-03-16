@@ -1,0 +1,8 @@
+C:\Users\Filip\OneDrive - Fakultet Organizacije i Informatike Varaždin\6. semestar\PI\Labosi - vjezbe\Vjezba2\Email_racuna\bin\Debug\Email_racuna.exe.config
+C:\Users\Filip\OneDrive - Fakultet Organizacije i Informatike Varaždin\6. semestar\PI\Labosi - vjezbe\Vjezba2\Email_racuna\bin\Debug\Email_racuna.exe
+C:\Users\Filip\OneDrive - Fakultet Organizacije i Informatike Varaždin\6. semestar\PI\Labosi - vjezbe\Vjezba2\Email_racuna\bin\Debug\Email_racuna.pdb
+C:\Users\Filip\OneDrive - Fakultet Organizacije i Informatike Varaždin\6. semestar\PI\Labosi - vjezbe\Vjezba2\Email_racuna\obj\Debug\Otvaranje_email_racuna.csproj.AssemblyReference.cache
+C:\Users\Filip\OneDrive - Fakultet Organizacije i Informatike Varaždin\6. semestar\PI\Labosi - vjezbe\Vjezba2\Email_racuna\obj\Debug\Otvaranje_email_racuna.csproj.SuggestedBindingRedirects.cache
+C:\Users\Filip\OneDrive - Fakultet Organizacije i Informatike Varaždin\6. semestar\PI\Labosi - vjezbe\Vjezba2\Email_racuna\obj\Debug\Otvaranje_email_racuna.csproj.CoreCompileInputs.cache
+C:\Users\Filip\OneDrive - Fakultet Organizacije i Informatike Varaždin\6. semestar\PI\Labosi - vjezbe\Vjezba2\Email_racuna\obj\Debug\Email_racuna.exe
+C:\Users\Filip\OneDrive - Fakultet Organizacije i Informatike Varaždin\6. semestar\PI\Labosi - vjezbe\Vjezba2\Email_racuna\obj\Debug\Email_racuna.pdb
