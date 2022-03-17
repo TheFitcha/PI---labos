@@ -33,6 +33,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Prijava_u_sustav", "Prijava
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Prvenstvo", "Prvenstvo\Prvenstvo.csproj", "{8F7827BC-969B-4756-A4CF-394CD6D0E9D4}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Zalihe_proizvoda", "Zalihe_proizvoda\Zalihe_proizvoda.csproj", "{AB1278FA-11E8-4C68-BE20-1A599CCE84BD}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -99,6 +101,10 @@ Global
 		{8F7827BC-969B-4756-A4CF-394CD6D0E9D4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8F7827BC-969B-4756-A4CF-394CD6D0E9D4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8F7827BC-969B-4756-A4CF-394CD6D0E9D4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AB1278FA-11E8-4C68-BE20-1A599CCE84BD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AB1278FA-11E8-4C68-BE20-1A599CCE84BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AB1278FA-11E8-4C68-BE20-1A599CCE84BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AB1278FA-11E8-4C68-BE20-1A599CCE84BD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
