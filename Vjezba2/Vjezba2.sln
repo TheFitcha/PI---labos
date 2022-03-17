@@ -31,6 +31,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Predlaganje_filma", "Predla
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Prijava_u_sustav", "Prijava_u_sustav\Prijava_u_sustav.csproj", "{D92C18FF-E4B4-4C3E-A70F-47C6CF5F1511}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Prvenstvo", "Prvenstvo\Prvenstvo.csproj", "{8F7827BC-969B-4756-A4CF-394CD6D0E9D4}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -93,6 +95,10 @@ Global
 		{D92C18FF-E4B4-4C3E-A70F-47C6CF5F1511}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D92C18FF-E4B4-4C3E-A70F-47C6CF5F1511}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D92C18FF-E4B4-4C3E-A70F-47C6CF5F1511}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8F7827BC-969B-4756-A4CF-394CD6D0E9D4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8F7827BC-969B-4756-A4CF-394CD6D0E9D4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8F7827BC-969B-4756-A4CF-394CD6D0E9D4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8F7827BC-969B-4756-A4CF-394CD6D0E9D4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
