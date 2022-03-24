@@ -1,0 +1,14 @@
+C:\Users\Filip\Desktop\Vjezba3\Bodovi_i_aktivnosti\bin\Debug\Bodovi_i_aktivnosti.exe.config
+C:\Users\Filip\Desktop\Vjezba3\Bodovi_i_aktivnosti\bin\Debug\Bodovi_i_aktivnosti.exe
+C:\Users\Filip\Desktop\Vjezba3\Bodovi_i_aktivnosti\bin\Debug\Bodovi_i_aktivnosti.pdb
+C:\Users\Filip\Desktop\Vjezba3\Bodovi_i_aktivnosti\bin\Debug\Bodovi.dll
+C:\Users\Filip\Desktop\Vjezba3\Bodovi_i_aktivnosti\obj\Debug\Bodovi_i_aktivnosti.csproj.AssemblyReference.cache
+C:\Users\Filip\Desktop\Vjezba3\Bodovi_i_aktivnosti\obj\Debug\Bodovi_i_aktivnosti.csproj.SuggestedBindingRedirects.cache
+C:\Users\Filip\Desktop\Vjezba3\Bodovi_i_aktivnosti\obj\Debug\Bodovi_i_aktivnosti.Form1.resources
+C:\Users\Filip\Desktop\Vjezba3\Bodovi_i_aktivnosti\obj\Debug\Bodovi_i_aktivnosti.Properties.Resources.resources
+C:\Users\Filip\Desktop\Vjezba3\Bodovi_i_aktivnosti\obj\Debug\Bodovi_i_aktivnosti.csproj.GenerateResource.cache
+C:\Users\Filip\Desktop\Vjezba3\Bodovi_i_aktivnosti\obj\Debug\Bodovi_i_aktivnosti.csproj.CoreCompileInputs.cache
+C:\Users\Filip\Desktop\Vjezba3\Bodovi_i_aktivnosti\obj\Debug\Bodovi_i_aktivnosti.csproj.CopyComplete
+C:\Users\Filip\Desktop\Vjezba3\Bodovi_i_aktivnosti\obj\Debug\Bodovi_i_aktivnosti.exe
+C:\Users\Filip\Desktop\Vjezba3\Bodovi_i_aktivnosti\obj\Debug\Bodovi_i_aktivnosti.pdb
+C:\Users\Filip\Desktop\Vjezba3\Bodovi_i_aktivnosti\obj\Debug\Bodovi_i_aktivnosti.FrmNoviBodovi.resources

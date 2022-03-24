@@ -1,0 +1,14 @@
+C:\Users\Filip\Desktop\Vjezba3\KucnaKnjiznica\bin\Debug\KucnaKnjiznica.exe.config
+C:\Users\Filip\Desktop\Vjezba3\KucnaKnjiznica\bin\Debug\KucnaKnjiznica.exe
+C:\Users\Filip\Desktop\Vjezba3\KucnaKnjiznica\bin\Debug\KucnaKnjiznica.pdb
+C:\Users\Filip\Desktop\Vjezba3\KucnaKnjiznica\bin\Debug\KucnaKnjiznicaLib.dll
+C:\Users\Filip\Desktop\Vjezba3\KucnaKnjiznica\obj\Debug\KucnaKnjiznica.csproj.AssemblyReference.cache
+C:\Users\Filip\Desktop\Vjezba3\KucnaKnjiznica\obj\Debug\KucnaKnjiznica.csproj.SuggestedBindingRedirects.cache
+C:\Users\Filip\Desktop\Vjezba3\KucnaKnjiznica\obj\Debug\KucnaKnjiznica.Knjige.resources
+C:\Users\Filip\Desktop\Vjezba3\KucnaKnjiznica\obj\Debug\KucnaKnjiznica.NovaPosudba.resources
+C:\Users\Filip\Desktop\Vjezba3\KucnaKnjiznica\obj\Debug\KucnaKnjiznica.Properties.Resources.resources
+C:\Users\Filip\Desktop\Vjezba3\KucnaKnjiznica\obj\Debug\KucnaKnjiznica.csproj.GenerateResource.cache
+C:\Users\Filip\Desktop\Vjezba3\KucnaKnjiznica\obj\Debug\KucnaKnjiznica.csproj.CoreCompileInputs.cache
+C:\Users\Filip\Desktop\Vjezba3\KucnaKnjiznica\obj\Debug\KucnaKnjiznica.csproj.CopyComplete
+C:\Users\Filip\Desktop\Vjezba3\KucnaKnjiznica\obj\Debug\KucnaKnjiznica.exe
+C:\Users\Filip\Desktop\Vjezba3\KucnaKnjiznica\obj\Debug\KucnaKnjiznica.pdb

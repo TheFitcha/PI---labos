@@ -1,0 +1,14 @@
+C:\Users\Filip\Desktop\Vjezba3\Filtriranje_transakcija\bin\Debug\Filtriranje_transakcija.exe.config
+C:\Users\Filip\Desktop\Vjezba3\Filtriranje_transakcija\bin\Debug\Filtriranje_transakcija.exe
+C:\Users\Filip\Desktop\Vjezba3\Filtriranje_transakcija\bin\Debug\Filtriranje_transakcija.pdb
+C:\Users\Filip\Desktop\Vjezba3\Filtriranje_transakcija\bin\Debug\BankaLib.dll
+C:\Users\Filip\Desktop\Vjezba3\Filtriranje_transakcija\obj\Debug\Filtriranje_transakcija.csproj.AssemblyReference.cache
+C:\Users\Filip\Desktop\Vjezba3\Filtriranje_transakcija\obj\Debug\Filtriranje_transakcija.csproj.SuggestedBindingRedirects.cache
+C:\Users\Filip\Desktop\Vjezba3\Filtriranje_transakcija\obj\Debug\Filtriranje_transakcija.PopisTransakcija.resources
+C:\Users\Filip\Desktop\Vjezba3\Filtriranje_transakcija\obj\Debug\Filtriranje_transakcija.Properties.Resources.resources
+C:\Users\Filip\Desktop\Vjezba3\Filtriranje_transakcija\obj\Debug\Filtriranje_transakcija.csproj.GenerateResource.cache
+C:\Users\Filip\Desktop\Vjezba3\Filtriranje_transakcija\obj\Debug\Filtriranje_transakcija.csproj.CoreCompileInputs.cache
+C:\Users\Filip\Desktop\Vjezba3\Filtriranje_transakcija\obj\Debug\Filtriranje_transakcija.csproj.CopyComplete
+C:\Users\Filip\Desktop\Vjezba3\Filtriranje_transakcija\obj\Debug\Filtriranje_transakcija.exe
+C:\Users\Filip\Desktop\Vjezba3\Filtriranje_transakcija\obj\Debug\Filtriranje_transakcija.pdb
+C:\Users\Filip\Desktop\Vjezba3\Filtriranje_transakcija\obj\Debug\Filtriranje_transakcija.DetaljiRacuna.resources

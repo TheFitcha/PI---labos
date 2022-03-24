@@ -1,0 +1,14 @@
+C:\Users\Filip\Desktop\Vjezba3\Prijava_i_prikaz_korisničkog_profila\bin\Debug\Prijava_i_prikaz_korisničkog_profila.exe.config
+C:\Users\Filip\Desktop\Vjezba3\Prijava_i_prikaz_korisničkog_profila\bin\Debug\Prijava_i_prikaz_korisničkog_profila.exe
+C:\Users\Filip\Desktop\Vjezba3\Prijava_i_prikaz_korisničkog_profila\bin\Debug\Prijava_i_prikaz_korisničkog_profila.pdb
+C:\Users\Filip\Desktop\Vjezba3\Prijava_i_prikaz_korisničkog_profila\bin\Debug\AutentifikacijaLib.dll
+C:\Users\Filip\Desktop\Vjezba3\Prijava_i_prikaz_korisničkog_profila\obj\Debug\Prijava_i_prikaz_korisničkog_profila.csproj.AssemblyReference.cache
+C:\Users\Filip\Desktop\Vjezba3\Prijava_i_prikaz_korisničkog_profila\obj\Debug\Prijava_i_prikaz_korisničkog_profila.csproj.SuggestedBindingRedirects.cache
+C:\Users\Filip\Desktop\Vjezba3\Prijava_i_prikaz_korisničkog_profila\obj\Debug\Prijava_i_prikaz_korisničkog_profila.Login.resources
+C:\Users\Filip\Desktop\Vjezba3\Prijava_i_prikaz_korisničkog_profila\obj\Debug\Prijava_i_prikaz_korisničkog_profila.Properties.Resources.resources
+C:\Users\Filip\Desktop\Vjezba3\Prijava_i_prikaz_korisničkog_profila\obj\Debug\Prijava_i_prikaz_korisničkog_profila.UserProfile.resources
+C:\Users\Filip\Desktop\Vjezba3\Prijava_i_prikaz_korisničkog_profila\obj\Debug\Prijava_i_prikaz_korisničkog_profila.csproj.GenerateResource.cache
+C:\Users\Filip\Desktop\Vjezba3\Prijava_i_prikaz_korisničkog_profila\obj\Debug\Prijava_i_prikaz_korisničkog_profila.csproj.CoreCompileInputs.cache
+C:\Users\Filip\Desktop\Vjezba3\Prijava_i_prikaz_korisničkog_profila\obj\Debug\Prijava_i_prikaz_korisničkog_profila.csproj.CopyComplete
+C:\Users\Filip\Desktop\Vjezba3\Prijava_i_prikaz_korisničkog_profila\obj\Debug\Prijava_i_prikaz_korisničkog_profila.exe
+C:\Users\Filip\Desktop\Vjezba3\Prijava_i_prikaz_korisničkog_profila\obj\Debug\Prijava_i_prikaz_korisničkog_profila.pdb
