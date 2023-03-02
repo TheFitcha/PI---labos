@@ -1,0 +1,143 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{12F9BFAD-CD23-4D09-BAE1-09BFA8A66DD5}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>BankarstvoGui</RootNamespace>
+    <AssemblyName>BankarstvoGui</AssemblyName>
+    <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="FrmIsplata.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmIsplata.Designer.cs">
+      <DependentUpon>FrmIsplata.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmPocetna.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmPocetna.Designer.cs">
+      <DependentUpon>FrmPocetna.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmPrijava.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmPrijava.Designer.cs">
+      <DependentUpon>FrmPrijava.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmProfilKorisnika.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmProfilKorisnika.Designer.cs">
+      <DependentUpon>FrmProfilKorisnika.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmRacuni.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmRacuni.Designer.cs">
+      <DependentUpon>FrmRacuni.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmTransakcije.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmTransakcije.Designer.cs">
+      <DependentUpon>FrmTransakcije.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmUplata.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmUplata.Designer.cs">
+      <DependentUpon>FrmUplata.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="FrmIsplata.resx">
+      <DependentUpon>FrmIsplata.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmPocetna.resx">
+      <DependentUpon>FrmPocetna.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmPrijava.resx">
+      <DependentUpon>FrmPrijava.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmProfilKorisnika.resx">
+      <DependentUpon>FrmProfilKorisnika.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmRacuni.resx">
+      <DependentUpon>FrmRacuni.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmTransakcije.resx">
+      <DependentUpon>FrmTransakcije.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmUplata.resx">
+      <DependentUpon>FrmUplata.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\BankarstvoLib\BankarstvoLib.csproj">
+      <Project>{AFBCF4EB-2F26-49D4-A473-21C238976CF8}</Project>
+      <Name>BankarstvoLib</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

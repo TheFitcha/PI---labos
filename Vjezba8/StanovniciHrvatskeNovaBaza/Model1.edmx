@@ -1,0 +1,204 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+  <!-- EF Runtime content -->
+  <edmx:Runtime>
+    <!-- SSDL content -->
+    <edmx:StorageModels>
+      <Schema Namespace="LabsModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+        <EntityType Name="Adrese">
+          <Key>
+            <PropertyRef Name="ID" />
+          </Key>
+          <Property Name="ID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+          <Property Name="IDMjesta" Type="int" Nullable="false" />
+          <Property Name="IDStanovnika" Type="int" Nullable="false" />
+          <Property Name="Adresa" Type="varchar" MaxLength="255" Nullable="false" />
+          <Property Name="AktivnaDo" Type="date" />
+        </EntityType>
+        <EntityType Name="Mjesta">
+          <Key>
+            <PropertyRef Name="ID" />
+          </Key>
+          <Property Name="ID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+          <Property Name="Naziv" Type="varchar" MaxLength="255" />
+        </EntityType>
+        <EntityType Name="Stanovnici">
+          <Key>
+            <PropertyRef Name="ID" />
+          </Key>
+          <Property Name="ID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+          <Property Name="Ime" Type="varchar" MaxLength="255" Nullable="false" />
+          <Property Name="Prezime" Type="varchar" MaxLength="255" Nullable="false" />
+          <Property Name="OIB" Type="varchar" MaxLength="11" Nullable="false" />
+          <Property Name="JMBG" Type="varchar" MaxLength="13" Nullable="false" />
+        </EntityType>
+        <Association Name="FK__Adrese__IDMjesta__3C69FB99">
+          <End Role="Mjesta" Type="Self.Mjesta" Multiplicity="1" />
+          <End Role="Adrese" Type="Self.Adrese" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="Mjesta">
+              <PropertyRef Name="ID" />
+            </Principal>
+            <Dependent Role="Adrese">
+              <PropertyRef Name="IDMjesta" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="FK__Adrese__IDStanov__3D5E1FD2">
+          <End Role="Stanovnici" Type="Self.Stanovnici" Multiplicity="1" />
+          <End Role="Adrese" Type="Self.Adrese" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="Stanovnici">
+              <PropertyRef Name="ID" />
+            </Principal>
+            <Dependent Role="Adrese">
+              <PropertyRef Name="IDStanovnika" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <EntityContainer Name="LabsModelStoreContainer">
+          <EntitySet Name="Adrese" EntityType="Self.Adrese" Schema="dbo" store:Type="Tables" />
+          <EntitySet Name="Mjesta" EntityType="Self.Mjesta" Schema="dbo" store:Type="Tables" />
+          <EntitySet Name="Stanovnici" EntityType="Self.Stanovnici" Schema="dbo" store:Type="Tables" />
+          <AssociationSet Name="FK__Adrese__IDMjesta__3C69FB99" Association="Self.FK__Adrese__IDMjesta__3C69FB99">
+            <End Role="Mjesta" EntitySet="Mjesta" />
+            <End Role="Adrese" EntitySet="Adrese" />
+          </AssociationSet>
+          <AssociationSet Name="FK__Adrese__IDStanov__3D5E1FD2" Association="Self.FK__Adrese__IDStanov__3D5E1FD2">
+            <End Role="Stanovnici" EntitySet="Stanovnici" />
+            <End Role="Adrese" EntitySet="Adrese" />
+          </AssociationSet>
+        </EntityContainer>
+      </Schema>
+    </edmx:StorageModels>
+    <!-- CSDL content -->
+    <edmx:ConceptualModels>
+      <Schema Namespace="LabsModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+        <EntityType Name="Adrese">
+          <Key>
+            <PropertyRef Name="ID" />
+          </Key>
+          <Property Name="ID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+          <Property Name="IDMjesta" Type="Int32" Nullable="false" />
+          <Property Name="IDStanovnika" Type="Int32" Nullable="false" />
+          <Property Name="Adresa" Type="String" MaxLength="255" FixedLength="false" Unicode="false" Nullable="false" />
+          <Property Name="AktivnaDo" Type="DateTime" Precision="0" />
+          <NavigationProperty Name="Mjesta" Relationship="Self.FK__Adrese__IDMjesta__3C69FB99" FromRole="Adrese" ToRole="Mjesta" />
+          <NavigationProperty Name="Stanovnici" Relationship="Self.FK__Adrese__IDStanov__3D5E1FD2" FromRole="Adrese" ToRole="Stanovnici" />
+        </EntityType>
+        <EntityType Name="Mjesta">
+          <Key>
+            <PropertyRef Name="ID" />
+          </Key>
+          <Property Name="ID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+          <Property Name="Naziv" Type="String" MaxLength="255" FixedLength="false" Unicode="false" />
+          <NavigationProperty Name="Adrese" Relationship="Self.FK__Adrese__IDMjesta__3C69FB99" FromRole="Mjesta" ToRole="Adrese" />
+        </EntityType>
+        <EntityType Name="Stanovnici">
+          <Key>
+            <PropertyRef Name="ID" />
+          </Key>
+          <Property Name="ID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+          <Property Name="Ime" Type="String" MaxLength="255" FixedLength="false" Unicode="false" Nullable="false" />
+          <Property Name="Prezime" Type="String" MaxLength="255" FixedLength="false" Unicode="false" Nullable="false" />
+          <Property Name="OIB" Type="String" MaxLength="11" FixedLength="false" Unicode="false" Nullable="false" />
+          <Property Name="JMBG" Type="String" MaxLength="13" FixedLength="false" Unicode="false" Nullable="false" />
+          <NavigationProperty Name="Adrese" Relationship="Self.FK__Adrese__IDStanov__3D5E1FD2" FromRole="Stanovnici" ToRole="Adrese" />
+        </EntityType>
+        <Association Name="FK__Adrese__IDMjesta__3C69FB99">
+          <End Role="Mjesta" Type="Self.Mjesta" Multiplicity="1" />
+          <End Role="Adrese" Type="Self.Adrese" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="Mjesta">
+              <PropertyRef Name="ID" />
+            </Principal>
+            <Dependent Role="Adrese">
+              <PropertyRef Name="IDMjesta" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="FK__Adrese__IDStanov__3D5E1FD2">
+          <End Role="Stanovnici" Type="Self.Stanovnici" Multiplicity="1" />
+          <End Role="Adrese" Type="Self.Adrese" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="Stanovnici">
+              <PropertyRef Name="ID" />
+            </Principal>
+            <Dependent Role="Adrese">
+              <PropertyRef Name="IDStanovnika" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <EntityContainer Name="LabsEntities" annotation:LazyLoadingEnabled="true">
+          <EntitySet Name="Adrese" EntityType="Self.Adrese" />
+          <EntitySet Name="Mjestas" EntityType="Self.Mjesta" />
+          <EntitySet Name="Stanovnicis" EntityType="Self.Stanovnici" />
+          <AssociationSet Name="FK__Adrese__IDMjesta__3C69FB99" Association="Self.FK__Adrese__IDMjesta__3C69FB99">
+            <End Role="Mjesta" EntitySet="Mjestas" />
+            <End Role="Adrese" EntitySet="Adrese" />
+          </AssociationSet>
+          <AssociationSet Name="FK__Adrese__IDStanov__3D5E1FD2" Association="Self.FK__Adrese__IDStanov__3D5E1FD2">
+            <End Role="Stanovnici" EntitySet="Stanovnicis" />
+            <End Role="Adrese" EntitySet="Adrese" />
+          </AssociationSet>
+        </EntityContainer>
+      </Schema>
+    </edmx:ConceptualModels>
+    <!-- C-S mapping content -->
+    <edmx:Mappings>
+      <Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+        <EntityContainerMapping StorageEntityContainer="LabsModelStoreContainer" CdmEntityContainer="LabsEntities">
+          <EntitySetMapping Name="Adrese">
+            <EntityTypeMapping TypeName="LabsModel.Adrese">
+              <MappingFragment StoreEntitySet="Adrese">
+                <ScalarProperty Name="ID" ColumnName="ID" />
+                <ScalarProperty Name="IDMjesta" ColumnName="IDMjesta" />
+                <ScalarProperty Name="IDStanovnika" ColumnName="IDStanovnika" />
+                <ScalarProperty Name="Adresa" ColumnName="Adresa" />
+                <ScalarProperty Name="AktivnaDo" ColumnName="AktivnaDo" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="Mjestas">
+            <EntityTypeMapping TypeName="LabsModel.Mjesta">
+              <MappingFragment StoreEntitySet="Mjesta">
+                <ScalarProperty Name="ID" ColumnName="ID" />
+                <ScalarProperty Name="Naziv" ColumnName="Naziv" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="Stanovnicis">
+            <EntityTypeMapping TypeName="LabsModel.Stanovnici">
+              <MappingFragment StoreEntitySet="Stanovnici">
+                <ScalarProperty Name="ID" ColumnName="ID" />
+                <ScalarProperty Name="Ime" ColumnName="Ime" />
+                <ScalarProperty Name="Prezime" ColumnName="Prezime" />
+                <ScalarProperty Name="OIB" ColumnName="OIB" />
+                <ScalarProperty Name="JMBG" ColumnName="JMBG" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+        </EntityContainerMapping>
+      </Mapping>
+    </edmx:Mappings>
+  </edmx:Runtime>
+  <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <Connection>
+      <DesignerInfoPropertySet>
+        <DesignerProperty Name="MetadataArtifactProcessing" Value="EmbedInOutputAssembly" />
+      </DesignerInfoPropertySet>
+    </Connection>
+    <Options>
+      <DesignerInfoPropertySet>
+        <DesignerProperty Name="ValidateOnBuild" Value="true" />
+        <DesignerProperty Name="EnablePluralization" Value="true" />
+        <DesignerProperty Name="IncludeForeignKeysInModel" Value="true" />
+        <DesignerProperty Name="UseLegacyProvider" Value="false" />
+        <DesignerProperty Name="CodeGenerationStrategy" Value="None" />
+      </DesignerInfoPropertySet>
+    </Options>
+    <!-- Diagram content (shape and connector positions) -->
+    <Diagrams></Diagrams>
+  </Designer>
+</edmx:Edmx>

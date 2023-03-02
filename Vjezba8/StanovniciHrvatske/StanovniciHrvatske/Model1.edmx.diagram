@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="aef3719c19cc488bb63c24aab35d17e7" Name="Diagram1">
+        <EntityTypeShape EntityType="DB_EntityModel.MeasurementUnit" Width="1.5" PointX="0.75" PointY="1.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="DB_EntityModel.SensorReading" Width="1.5" PointX="5.25" PointY="1.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="DB_EntityModel.Sensor" Width="1.5" PointX="3" PointY="1" IsExpanded="true" />
+        <EntityTypeShape EntityType="DB_EntityModel.SensorType" Width="1.5" PointX="0.75" PointY="5.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="DB_EntityModel.sysdiagram" Width="1.5" PointX="2.625" PointY="4" IsExpanded="true" />
+        <AssociationConnector Association="DB_EntityModel.FK_Sensors_MeasurementUnits" ManuallyRouted="false" />
+        <AssociationConnector Association="DB_EntityModel.FK_SensorReadings_Sensors" ManuallyRouted="false" />
+        <AssociationConnector Association="DB_EntityModel.FK_Sensors_SensorTypes" ManuallyRouted="false" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>
